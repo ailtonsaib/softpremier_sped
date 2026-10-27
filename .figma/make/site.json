@@ -1,0 +1,11 @@
+{
+  "title": "Sistemas Ailton",
+  "description": "Engage players with an interactive electronic bingo system that streamlines gameplay, enhances user experience, and simplifies event management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
